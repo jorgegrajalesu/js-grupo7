@@ -5,4 +5,5 @@ Fundamentos básicos en javascript
 2. Variables y como definirlas
 3. Tipos de datos
 4. Arrays
+5. Objetos literales
 ```
